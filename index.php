@@ -3,4 +3,4 @@
 
 echo '<h1>Super projeto!</h1>';
 
-echo 'Este e um pojerto q eeu escrivii tud eraddo';
+echo 'Este é um projeto que eu escrevi tudo errado';
